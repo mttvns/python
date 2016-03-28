@@ -62,7 +62,6 @@ End Sub
 
 Sub Sub_3()
 
-' you can add as many macro subs as you want; maybe Sub_2 calls Sub_3
 
 End Sub
 
